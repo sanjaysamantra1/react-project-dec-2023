@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-project-dec-2023/static/css/main.eb97bd21.css",
+    "main.js": "/react-project-dec-2023/static/js/main.1f287714.js",
+    "static/js/500.72080eab.chunk.js": "/react-project-dec-2023/static/js/500.72080eab.chunk.js",
+    "static/js/79.56d468db.chunk.js": "/react-project-dec-2023/static/js/79.56d468db.chunk.js",
+    "static/js/787.aaa332b9.chunk.js": "/react-project-dec-2023/static/js/787.aaa332b9.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/react-project-dec-2023/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-project-dec-2023/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/img2.jpg": "/react-project-dec-2023/static/media/img2.3510892ff526ad0920eb.jpg",
+    "index.html": "/react-project-dec-2023/index.html",
+    "main.eb97bd21.css.map": "/react-project-dec-2023/static/css/main.eb97bd21.css.map",
+    "main.1f287714.js.map": "/react-project-dec-2023/static/js/main.1f287714.js.map",
+    "500.72080eab.chunk.js.map": "/react-project-dec-2023/static/js/500.72080eab.chunk.js.map",
+    "79.56d468db.chunk.js.map": "/react-project-dec-2023/static/js/79.56d468db.chunk.js.map",
+    "787.aaa332b9.chunk.js.map": "/react-project-dec-2023/static/js/787.aaa332b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb97bd21.css",
+    "static/js/main.1f287714.js"
+  ]
+}
